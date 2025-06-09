@@ -15,12 +15,12 @@
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "unicorn©®"
+      "value": "IsHaQ-MD"
     },
     "SESSION_ID": {
       "description": "your session id. get session here https://silva-session-selector.vercel.app/",
       "required": true,
-      "value": ""
+      "value": "Silva~dBxFEB7T#BTQfhahBfZGtjiVpdqGGkxa7pF10KIeKxhW1pQ3zORE"
     },
     "MODE": {
       "description": "mode public or private",
@@ -35,7 +35,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     "autoRead": {
       "description": "make it true or false if you want bot to read messages leave it blank if you don't want it to read messages",
@@ -45,12 +45,12 @@
     "WELCOME_MSG": {
       "description": "make it true or false if you want bot to Send welcome message when someone joins a group",
       "required": false,
-      "value": "true"
+      "value": "false"
       },
     "GOODBYE_MSG": {
       "description": "make it true or false if you want bot to Send goodbye message when someone leaves a group",
       "required": false,
-      "value": "true"
+      "value": "false"
       },
     "ANTILINK": {
       "description": "make it true or false if you want bot to delete group links sent in groups. of you are admin",
@@ -70,7 +70,7 @@
     "AUTO_STATUS_LIKE": {
       "description": "make it true or false. true to activate false to deactivate",
       "required": true,
-      "value": "true"
+      "value": "false"
        },
     "AUTO_STATUS_LIKE_EMOJI": {
       "description": "customize to any emoji you need 🦄",
